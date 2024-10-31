@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "IntelliCharter",
+    "description": "",
+    "home_page_url": "https://swisstc.github.io/gh-pages",
+    "feed_url": "https://swisstc.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://swisstc.github.io/gh-pages/media/website/intellicharter.png",
+    "author": {
+        "name": "Tony Craven"
+    },
+    "items": [
+    ]
+}
